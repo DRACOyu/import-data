@@ -12,5 +12,7 @@ three ways to import data
     dfonqgf
     fow*qrogi
 # 2,
-|*stufhpg
+|stufhpg|grfgqwerg|
+|efweqgfweg|erfwqerqw|
 # 3,
+*fdghrweog

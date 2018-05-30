@@ -5,7 +5,7 @@ three ways to import data
 
 # 1,Preloaded data: 预加载数据
  
-```
+```python
     import tensorflow as tf  
     # 设计Graph  
     x1 = tf.constant([2, 3, 4])  

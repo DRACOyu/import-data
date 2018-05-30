@@ -3,18 +3,19 @@ import-data
 
 three ways to import data
 
-# 1,
-第一种方式是直接读入图片 <br>
-自己的数据要`提前处理`
-[tensorflow](https://github.com/DRACOyu/tensorflow-practice.git "悬停显示")
-
-    study
-    dfonqgf
-    fow*qrogi
+# 1,Preloaded data: 预加载数据
+ <br>
+'''
+    import tensorflow as tf  
+    # 设计Graph  
+    x1 = tf.constant([2, 3, 4])  
+    x2 = tf.constant([4, 0, 1])  
+    y = tf.add(x1, x2)  
+    # 打开一个session --> 计算y  
+    with tf.Session() as sess:  
+        print sess.run(y)  
+'''
 # 2,
-|stufhpg|grfgqwerg|
-|efweqgfweg|erfwqerqw|
+
 # 3,
-1111<br>
-* fdghrweog 
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo") 
+

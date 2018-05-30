@@ -16,3 +16,8 @@ three ways to import data
 |efweqgfweg|erfwqerqw|
 # 3,
 *fdghrweog
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo") 
+    
+    
+[![baijjjjdu]](http://www.baidu.com "百度lo111go")  
+[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"  

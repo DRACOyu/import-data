@@ -4,7 +4,13 @@ import-data
 three ways to import data
 
 # 1,
-第一种方式是直接读入图片
-自己的数据要提前处理
+第一种方式是直接读入图片 <br>
+自己的数据要`提前处理`
+[tensorflow](https://github.com/DRACOyu/tensorflow-practice.git "悬停显示")
+
+    study
+    dfonqgf
+    fow*qrogi
 # 2,
+|*stufhpg
 # 3,

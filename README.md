@@ -5,7 +5,7 @@ three ways to import data
 
 # 1,Preloaded data: 预加载数据
  <br>
-'''python
+```python
     import tensorflow as tf  
     # 设计Graph  
     x1 = tf.constant([2, 3, 4])  
@@ -14,7 +14,7 @@ three ways to import data
     # 打开一个session --> 计算y  
     with tf.Session() as sess:  
         print sess.run(y)  
-'''
+```
 # 2,
 
 # 3,

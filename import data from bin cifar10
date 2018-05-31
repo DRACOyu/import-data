@@ -10,7 +10,7 @@ def read_cifar10(data_dir, is_train, batch_size, shuffle):
     Args:
         data_dir: the directory of CIFAR10
         is_train: boolen
-        batch_size:
+        batch_size:with
         shuffle:       
     Returns:
         label: 1D tensor, tf.int32
@@ -97,5 +97,3 @@ def read_cifar10(data_dir, is_train, batch_size, shuffle):
         
         return images, tf.reshape(label_batch, [batch_size, n_classes])
     
-
-
